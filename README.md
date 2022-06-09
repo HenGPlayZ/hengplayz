@@ -1,11 +1,13 @@
+### Hi there 👋
 
-- 👋 Hi, I’m @HenGPlayZ
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on LemonFlamingo INC
-- 📫 How to reach me mama867666@gmail.com
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Draxler!&center=true&width=380&height=45"> </p>
+<a href="https://github.com/HenGPlayZ/"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/HenGPlayZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
+</p>
 
-<!---
-HenGPlayZ/HenGPlayZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/981361760311341156)](https://discord.com/users/410380919212605440)
+
+---
+
+
