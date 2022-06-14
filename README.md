@@ -30,7 +30,7 @@
    <a href="https://github.com/HenGPlayZ"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Draxler&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
     </a>
     <a href="https://open.spotify.com/playlist/6dqvkiQyr2P4U7YdiGl1uE?si=0109d57dfac2489c">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=6dqvkiQyr2P4U7YdiGl1uE?si=0109d57dfac2489c&cover_image=true&theme=novatorem&bar_color=00FF99&bar_color_cover=false"/>
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hyy6vwyhhsuqfylmt6p5ef6sfu&cover_image=true&theme=novatorem&bar_color=00FF99&bar_color_cover=false"/>
     </a>
 </p>
 
