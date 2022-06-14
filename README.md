@@ -11,8 +11,8 @@
 - ❓  I am in love with coding Discord Bots, I also love helping!
 
 ---
-<p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/410380919212605440)](https://discord.com/users/410380919212605440)
+
+.                    [![Discord Presence](https://lanyard.cnrad.dev/api/410380919212605440)](https://discord.com/users/410380919212605440)
 
 
 ## 🔖 My Statistics
