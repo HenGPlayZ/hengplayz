@@ -2,16 +2,16 @@
 ---
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Draxler!&center=true&width=380&height=45"> 
 
-- 🔭 I’m currently working on a discord music bot!
+<p align="center"> - 🔭 I’m currently working on a discord music bot!
   
 
-- 🌱 I’m currently coding in **Javascript** and C#.  
+<p align="center"> - 🌱 I’m currently coding in **Javascript** and C#.  
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping!
+<p align="center"> - ❓  I am in love with coding Discord Bots, I also love helping!
   
   
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<p align="center"> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
