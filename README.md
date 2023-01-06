@@ -25,8 +25,9 @@
 
 
 
-
----<a href="https://github.com/HenGPlayZ/"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/HenGPlayZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
+###
+---
+<a href="https://github.com/HenGPlayZ/"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/HenGPlayZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
 </p>
 
 ---
