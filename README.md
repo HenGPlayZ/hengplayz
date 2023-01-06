@@ -8,7 +8,7 @@
 <p align="center"> ➥ 🌱 I’m currently coding in **Javascript** and C#.  
   
 
-<p align="center"> ➥ ❓  I am in love with coding Discord Bots, I also love helping!
+<p align="center"> ➥ ❓  I am in love with my balls
   
   
   
