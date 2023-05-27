@@ -5,7 +5,7 @@
 <p align="center"> ➥ 🔭 I’m currently working on a discord music bot!
   
 
-<p align="center"> ➥ 🌱 I’m currently coding in **Javascript** and C#.  
+<p align="center"> ➥ 🌱 I’m currently coding in Javascript and C#.  
   
 
 <p align="center"> ➥ ❓  I am in love with my balls
