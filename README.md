@@ -16,8 +16,7 @@
 
 ---
 
-<div align="center">[Click here to view my Portfolio](https://tomato6966.xyz)</div>  
-
+<div align="center">
 ![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
 
 
