@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+![](https://discord.c99.nl/widget/theme-3/410380919212605440.png)  
 
 
 
