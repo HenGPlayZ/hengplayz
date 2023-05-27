@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://discord.c99.nl/widget/theme-3/410380919212605440.png">
+  <img  src="https://discord.c99.nl/widget/theme-3/410380919212605440.png">
 </p>
 
 
