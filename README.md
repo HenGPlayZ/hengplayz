@@ -16,7 +16,9 @@
 
 ---
 
-<p align="center"> [![Discord Presence](https://lanyard.cnrad.dev/api/410380919212605440)](https://discord.com/users/410380919212605440)
+<div align="center">[Click here to view my Portfolio](https://tomato6966.xyz)</div>  
+
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
 
 
 
