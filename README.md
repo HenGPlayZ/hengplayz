@@ -17,7 +17,7 @@
 ---
 
 
-                                                                  ![](https://discord.c99.nl/widget/theme-3/410380919212605440.png)
+![](https://discord.c99.nl/widget/theme-3/410380919212605440.png)
 
 
 
