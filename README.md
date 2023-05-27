@@ -9,7 +9,7 @@
   
 
 <p align="center"> ➥ ❓  I am in love with my balls
- <br/> 
+
   
   
   
@@ -17,11 +17,16 @@
 
 
 <p align="center">
+  
+  
   <img  src="https://discord.c99.nl/widget/theme-3/410380919212605440.png">
+  
+  
+  
 </p>
 
 
-
+<br/>
 
  
   
