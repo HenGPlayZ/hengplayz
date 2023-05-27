@@ -22,10 +22,6 @@
 
 <br/>
 
-### 🏆 | GitHub Profile:
-<a href="nonce">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hengplayz&column=8&theme=discord&no-frame=true&no-bg=true"/>
-</a>
 
 ### 
 ---
