@@ -42,3 +42,4 @@
 
 ---
 
+<p align="left"> <img src="https://count.getloli.com/get/@HenGPlayZ?theme=rule34" alt="Draxler" /> </p>
