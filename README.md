@@ -45,7 +45,7 @@
   
   
 <p align="center">
-  <img  src="https://cdn.discordapp.com/attachments/831823676398764052/1117085272920834138/making_your_way.png">
+  <img  src="https://cdn.discordapp.com/attachments/831823676398764052/1117085955174703216/making_your_way_1.png">
 </p>
 
 ---
