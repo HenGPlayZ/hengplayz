@@ -43,7 +43,7 @@
   
   
 <p align="center">
-  <img  src="https://cdn.discordapp.com/attachments/831823676398764052/1117091797705953300/DRAXLER_3.png">
+  <img  src="https://cdn.discordapp.com/attachments/831823676398764052/1117092443494559814/DRAXLER.png">
 </p>
 
 
