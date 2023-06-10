@@ -43,8 +43,11 @@
   
   
 <p align="center">
-  <img  src="https://cdn.discordapp.com/attachments/831823676398764052/1117090333247934625/DRAXLER.png">
+  <img  src="https://cdn.discordapp.com/attachments/831823676398764052/1117090994551275590/DRAXLER_1.png">
 </p>
+
+
+
 
 
 <p align="center"> <a href="https://github.com/HenGPlayZ/"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/HenGPlayZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
