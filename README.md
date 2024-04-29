@@ -43,7 +43,7 @@
   
   
 <p align="center">
-  <img  src="https://d1ck.me/7C.png">
+  <img  src="https://cdn.draxler.lol/kX.png">
 </p>
 
 
