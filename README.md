@@ -5,7 +5,7 @@
 <p align="center"> ➥ 🔭 I’m currently working on myself!
   
 
-<p align="center"> ➥ 🌱 I’m currently coding in Javascript and C#.  
+<p align="center"> ➥ 🌱 I’m currently learning Python and C++.  
   
 
 <p align="center"> ➥ ❓  I am in love with my balls
